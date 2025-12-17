@@ -92,7 +92,3 @@ Welcome to this project on **Audio Classification**, where we explore the power 
 ---
 
 
-
-## 🙋‍♀️ About Me
-
-I'm Ramyasri Chapala, a passionate data scientist focused on ML, AI, and automation. Let's connect on [LinkedIn](https://www.linkedin.com/in/yourprofile/) or explore my other projects!N”
